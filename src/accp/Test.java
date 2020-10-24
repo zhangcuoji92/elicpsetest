@@ -3,8 +3,9 @@ package accp;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("µÚ1²âÊÔ");
-		System.out.println("µÚ2²âÊÔ");
+		System.out.println("ç¬¬ä¸€æ¬¡æµ‹è¯•");
+		System.out.println("ç¬¬äºŒæ¬¡æµ‹è¯•");
+		System.out.println("ç¬¬ä¸‰æ¬¡æµ‹è¯•");
 	}
 
 }
